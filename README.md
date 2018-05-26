@@ -19,6 +19,10 @@
   ```
   sudo apt-get install libopencv-highgui-dev
   ```
+* if error highgui persists then change line in main.cpp as
+  ```
+  opencv2/highgui/highgui.hpp
+  ```
 Supported both: OpenCV 2.x and OpenCV 3.x
 
 --------
